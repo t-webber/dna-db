@@ -1,0 +1,20 @@
+--------------------
+si tu lis une ligne avec 10 -, c'est qu'on change de blocs
+si tu lis une ligne avec 10 #, c'est qu'on passe au contenu
+---------------------
+BLOC1 : USERS 
+TYPE = Nom: String, Email: String, Password: String, Roles, Date de création, Date de modification
+-----------------------
+Contenu du bloc1 
+---------------------
+BLOC2 : ROLES
+TYPE : Nom, Users
+-----------------------
+Contenu du bloc2
+-----------------------
+BLOC2 : ROLES
+TYPE : Nom, Users
+-----------------------
+Contenu du bloc2
+
+
